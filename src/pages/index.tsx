@@ -18,7 +18,7 @@ interface search_entry {
     name: string,
     category: string,
     url: string,
-    relevance: number,
+    relevance: string,
 }
 
 const mock_entries: search_entry[] = [
