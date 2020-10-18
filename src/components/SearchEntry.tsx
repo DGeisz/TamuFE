@@ -5,7 +5,7 @@ interface Props {
     name: string;
     category: string;
     url: string;
-    relevance: number;
+    relevance: string;
 }
 
 export const SearchEntry: React.FC<Props> = ({name, category, url, relevance}) => {
