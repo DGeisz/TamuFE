@@ -1,0 +1,24 @@
+.entryName {
+    font-weight: 700;
+    color: #3199b0;
+    font-size: 18pt;
+}
+
+.entryCategory {
+    color: #315db0;
+    font-size: 13pt;
+    font-weight: 500;
+}
+
+.rowContainer {
+    display: -webkit-flex;
+    flex-direction: row;
+}
+
+.relevanceContainer {
+    border-radius: 10px;
+    background-color: #ffd7a8;
+    color: #e35b00;
+    padding: 3px 10px 3px 10px;
+    margin-right: 5px;
+}

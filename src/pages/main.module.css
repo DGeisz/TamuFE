@@ -1,0 +1,14 @@
+.title {
+    padding: 10px 0 10px 20px;
+    font-size: 20pt;
+    font-weight: 500;
+    color: #256b0a;
+}
+
+.block {
+    height: 70px;
+}
+
+.searchContainer {
+    margin-left: 20px;
+}

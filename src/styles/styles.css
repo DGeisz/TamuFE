@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    background-color: #f8f9fa!important;
+}
+
+a:hover {
+    text-decoration: none!important;
+}
