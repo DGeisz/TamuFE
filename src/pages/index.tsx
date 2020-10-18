@@ -21,56 +21,56 @@ interface search_entry {
     relevance: string,
 }
 
-const mock_entries: search_entry[] = [
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Operation Game: Star Wars The Mandalorian Edition Game",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Operation Game: Star Wars The Mandalorian Edition Game",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-    {
-        name: "Baby yoda",
-        category: "Mandalorian",
-        url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
-        relevance: 0.7,
-    },
-];
+// const mock_entries: search_entry[] = [
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Operation Game: Star Wars The Mandalorian Edition Game",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Operation Game: Star Wars The Mandalorian Edition Game",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+//     {
+//         name: "Baby yoda",
+//         category: "Mandalorian",
+//         url: "https://www.walmart.com/ip/Operation-Game-Star-Wars-The-Mandalorian-Edition-Game/263539418",
+//         relevance: 0.7,
+//     },
+// ];
 
 const Launch = () => {
 
